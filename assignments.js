@@ -8,6 +8,64 @@ const categories = {
         description: "Current events and news activities",
         assignments: {
             // WINTER OLYMPICS 2026 UNIT
+            
+            winterOlympicsStory: {
+                title: "Winter Olympics - Interactive Story",
+                category: "News 2 You",
+                type: "interactive-story",
+                instructions: "Read along with the story! Click the arrows to turn pages. Click the speaker to hear each page read aloud.",
+                pages: [
+                    {
+                        number: 1,
+                        text: "A big sports event is February 6-22. The event is the 2026 Winter Olympic Games. The 2026 Winter Olympics is in northern Italy. Italy is a country in southern Europe. Many of the Winter Olympic competitions will be in Milan, Italy. Competitions will be in Cortina d'Ampezzo, Italy, too.",
+                        image: "🏔️",
+                        imageDesc: "Map of Italy with Olympic rings"
+                    },
+                    {
+                        number: 2,
+                        text: "The Winter Olympics are every four years. Athletes from around the world compete in winter sports. Many countries send athletes to the Winter Olympics. The countries include the U.S., China, Denmark, South Korea, and more. More than 3,500 athletes will compete this year.",
+                        image: "🌍",
+                        imageDesc: "Athletes from different countries"
+                    },
+                    {
+                        number: 3,
+                        text: "The Winter Olympics starts with an opening ceremony. The opening ceremony is on February 6. The athletes will march in a parade. People from Italy will perform for the athletes. A special Olympic flag will be raised.",
+                        image: "🎭",
+                        imageDesc: "Opening ceremony celebration"
+                    },
+                    {
+                        number: 4,
+                        text: "Athletes may compete on teams or by themselves. They compete on ice and snow. The Winter Olympics will include 16 winter sports. The sports include alpine skiing, bobsleigh, curling, figure skating, ice hockey, snowboarding, and speed skating.",
+                        image: "⛷️",
+                        imageDesc: "Winter sports montage"
+                    },
+                    {
+                        number: 5,
+                        text: "The Winter Olympics will include one new sport this year. The sport is named ski mountaineering. Ski mountaineering is a skiing sport. Athletes ski and climb up a mountain.",
+                        image: "🏔️",
+                        imageDesc: "Ski mountaineering athlete"
+                    },
+                    {
+                        number: 6,
+                        text: "Athletes wear special covers on their skis. The covers help them not slide down the mountain. They take the covers off at the top of the mountain. Then the athletes ski down the mountain.",
+                        image: "⛷️",
+                        imageDesc: "Skier with climbing skins"
+                    },
+                    {
+                        number: 7,
+                        text: "The best athletes in the Winter Olympics win medals. An athlete wins a gold medal for first place, silver medal for second place, and bronze medal for third place. The Winter Olympics will end with a closing ceremony. The closing ceremony is on February 22.",
+                        image: "🥇",
+                        imageDesc: "Olympic medals"
+                    },
+                    {
+                        number: 8,
+                        text: "Many people will go to Italy to watch the Winter Olympics. Many more people will watch the Winter Olympics on TV. People will cheer for their favorite athletes. Some athletes may set new world records! Will you watch the Winter Olympics?",
+                        image: "📺",
+                        imageDesc: "People watching Olympics"
+                    }
+                ]
+            },
+            
             winterOlympicsVocab: {
                 title: "Winter Olympics - Vocabulary",
                 category: "News 2 You",
